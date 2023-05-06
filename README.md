@@ -4,8 +4,8 @@
 Your one-stop-shop for all things movies review. Whether you're a cinephile or just looking for some reviews , This app is designed to help you discover new
 
 # Screenshots
-![screenshot](https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/movie1.jpeg)
-![screenshot](https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/movie%20app2.jpeg)
+<img src="https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/movie1.jpeg" alt= "screenshot" width="30%" height="40%" />
+<img src="https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/movie%20app2.jpeg" alt= "screenshot" width="30%" height="40%" />
 
 # Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge)
